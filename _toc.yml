@@ -6,8 +6,7 @@ root: intro
 options:
   numbered: True
 chapters:
-  - file: courses/eas503/eas503
-  - section: Final Project
-    chapters:
-      - file: courses/eas503/Final_Project
+- file: courses/eas503/eas503
+  sections:
+  - file: courses/eas503/Final_Project.ipynb
 
