@@ -10,6 +10,7 @@ chapters:
   sections:
   - file: courses/eas503/Final_Project.ipynb
   - file: courses/eas503/Video_recording
+  - file: courses/eas503/DockerHub
   - file: courses/eas503/Streamlit
   - file: courses/eas503/GitHub
 
