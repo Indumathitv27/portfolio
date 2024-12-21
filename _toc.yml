@@ -7,4 +7,4 @@ options:
   numbered: True
 chapters:
 - file: courses/eas503/eas503
-- file: courses/eas503/eas503/Final_Project
+- file: courses/eas503/Final_Project
