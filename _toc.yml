@@ -1,10 +1,21 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
+# format: jb-book
+# root: intro
+# options:
+#   numbered: True
+# chapters:
+# - file: courses/eas503/eas503
+# - file: courses/eas503/Final_Project
+
 format: jb-book
 root: intro
 options:
   numbered: True
 chapters:
-- file: courses/eas503/eas503
-- file: courses/eas503/Final_Project
+  - file: courses/eas503/eas503
+  - section: Final Project
+    chapters:
+      - file: courses/eas503/Final_Project
+
