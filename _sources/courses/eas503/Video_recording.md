@@ -1,6 +1,7 @@
 # Video Recording
 
-- [Video Recording (36 minutes)](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8e521d6-9b89-4f8e-ae5b-afa3004ff4f5)
+Google drive Link for FinalVideo
+- [Video Recording](https://drive.google.com/file/d/1V2N69KR70vGn10GMREagY_EKtNtL0wga/view?usp=sharing)
 
 
 ```{tableofcontents}
