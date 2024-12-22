@@ -11,6 +11,7 @@ chapters:
   - file: courses/eas503/ProjectOverview
   - file: courses/eas503/Final_Project.ipynb
   - file: courses/eas503/Video_recording
+  - file: courses/eas503/DAGSHub
   - file: courses/eas503/DockerHub
   - file: courses/eas503/Streamlit
   - file: courses/eas503/GitHub
