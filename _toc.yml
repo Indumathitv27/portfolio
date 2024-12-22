@@ -8,6 +8,7 @@ options:
 chapters:
 - file: courses/eas503/eas503
   sections:
+  - file: courses/eas503/ProjectOverview
   - file: courses/eas503/Final_Project.ipynb
   - file: courses/eas503/Video_recording
   - file: courses/eas503/DockerHub
